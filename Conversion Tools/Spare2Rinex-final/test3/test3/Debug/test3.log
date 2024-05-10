@@ -1,0 +1,8 @@
+﻿  main.c
+c1 : fatal error C1083: 无法打开源文件: “..\src\main.c”: No such file or directory
+  nav_core.c
+c1 : fatal error C1083: 无法打开源文件: “..\src\nav_core.c”: No such file or directory
+  nav_rawlog.c
+  nav_rnx.c
+c1 : fatal error C1083: 无法打开源文件: “..\src\nav_rnx.c”: No such file or directory
+  正在生成代码...
